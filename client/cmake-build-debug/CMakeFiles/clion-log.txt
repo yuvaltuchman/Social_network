@@ -1,0 +1,6 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /home/yuval/Clients_SPL3/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /home/yuval/Clients_SPL3"
+boost lib: Boost::regex;Boost::date_time;Boost::system;Boost::filesystem;Boost::thread;Boost::graph
+boost inc:/usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yuval/Clients_SPL3/cmake-build-debug

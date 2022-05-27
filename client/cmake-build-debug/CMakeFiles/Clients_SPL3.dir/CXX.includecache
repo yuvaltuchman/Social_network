@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuval/Clients_SPL3/include/connectionHandler.h
+string
+-
+iostream
+-
+boost/asio.hpp
+-
+
+/home/yuval/Clients_SPL3/src/connectionHandler.cpp
+iostream
+-
+../include/connectionHandler.h
+/home/yuval/Clients_SPL3/include/connectionHandler.h
+ctime
+-
+

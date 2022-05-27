@@ -1,0 +1,3 @@
+/home/yuval/Clients_SPL3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuval/Clients_SPL3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuval/Clients_SPL3/cmake-build-debug/CMakeFiles/Clients_SPL3.dir
